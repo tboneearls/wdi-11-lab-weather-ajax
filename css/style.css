@@ -1,0 +1,20 @@
+body {
+	background-color: #1B8232;
+}
+#display {
+	text-align: center;
+	background-color: #8CF6FF;
+}
+#city {
+	font-size: 40px;
+}
+.temp_row {
+	display: flex;
+	justify-content: space-around;
+}
+#high {
+	font-size: 24px;
+}
+#low {
+	font-size: 24px;
+}
